@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/vatsal24001" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1690708418~exp=1690709018~hmac=c4ebc39bbc967e57abcafa63078a1d51e7f1d4d1cb4ba8197a63ac4fe8507f8f)" alt="vatsal24001" height="30" width="40" /></a>
+<a href="https://instagram.com/vatsal24001" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=740&t=st=1690708418~exp=1690709018~hmac=c4ebc39bbc967e57abcafa63078a1d51e7f1d4d1cb4ba8197a63ac4fe8507f8f" alt="vatsal24001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
