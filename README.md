@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Patel</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **next js**
+- 🌱 I’m currently learning **framwork**
 
 - 💬 Ask me about **node , react , js , kafka , docker**
 
