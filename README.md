@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer · Backend & AI/ML · Microservices · SaaS Founder</b><br/>
+  <b>Software Engineer · Backend & AI/ML · Microservices </b><br/>
   <i>Building high-performance systems and production AI products from Ahmedabad, India 🇮🇳</i>
 </p>
 
