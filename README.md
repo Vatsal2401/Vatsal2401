@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vatsal-patel-b8077b190/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vatsalpatel9393@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://autoreels.in"><img src="https://img.shields.io/badge/AutoReels.in-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,28 +17,9 @@
 ## 🚀 About Me
 
 - 🏗️ **3+ years** building high-performance backend systems and production AI products
-- 🤖 Currently building **[AutoReel.in](https://autoreels.in)** — an AI Video SaaS (177 users, 400+ projects, 160+ videos generated)
 - ⚡ Scaled a **ClickHouse analytics pipeline** ingesting **50M+ rows/day** at Saleshandy
 - 🧠 Passionate about **LLMs, RAG pipelines, and agentic AI systems**
 - 📬 Reach me at **vatsalpatel9393@gmail.com**
-- 🌐 Open to **remote opportunities with US companies**
-
----
-
-## 🔥 Featured Project — AutoReel.in
-
-> **An independently built, production AI Video SaaS**
-
-| Stat | Value |
-|------|-------|
-| 👥 Users | 177 |
-| 💳 Premium Subscribers | 3 |
-| 🎬 Videos Generated | 163+ |
-| 📁 Projects Created | 409 |
-
-**Stack:** `NestJS` · `Python/FastAPI` · `FFmpeg` · `Remotion` · `AWS Lambda` · `CLIP (ViT-L/14)` · `Redis/Celery` · `React`
-
-**Features:** Reel Generator · UGC Video Ads · Graphic Motion · Lip Sync · Text-to-Image · Image-to-Video · AI Captioning
 
 ---
 
@@ -107,5 +87,5 @@
 
 <p align="center">
   <i>"I don't just write code — I build systems that scale and products that ship."</i><br/><br/>
-  <a href="https://autoreels.in">🌐 autoreels.in</a> · <a href="mailto:vatsalpatel9393@gmail.com">📬 vatsalpatel9393@gmail.com</a>
+  <a href="mailto:vatsalpatel9393@gmail.com">📬 vatsalpatel9393@gmail.com</a>
 </p>
