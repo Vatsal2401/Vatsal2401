@@ -90,7 +90,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=Vatsal2401)
 <p align="center">
   <i>"I don't just write code. I build systems that scale."</i><br/><br/>
   <a href="mailto:vatsalpatel9393@gmail.com">📬 vatsalpatel9393@gmail.com</a>
